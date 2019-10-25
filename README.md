@@ -14,3 +14,5 @@
 # 활용 예제 
 ![IoT Proejct with RPi3](rpi3-proejct-example.png)
 
+# 부품 리스트
+찹터별로 준비해야 하는 부품 리스트들을 열람하기위하여 [여기](accessory-list.md)를 클릭하여 주세요.
