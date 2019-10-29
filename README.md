@@ -1,5 +1,10 @@
 # 라즈베리파이로 시작하는 핸드메이드 IoT
 
+* http://www.yes24.com/Product/Goods/78869304?scode=032&OzSrank=1
+* https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=207807446
+* http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791190014489
+
+
 ![라즈베리파이로 시작하는 핸드메이드 IoT-입체](https://user-images.githubusercontent.com/21074282/65301685-7af4c000-dbb3-11e9-9dae-9748cc7cefa4.jpg)
 
 과거에는 소프트웨어 개발자들이 소프트웨어에 관련된 개발을 주로 해왔기 때문에 깊이 있는 하드웨어 지식이 필요하지 않았다. 그러나 최근에 소프트웨어를 탑재하는 하드웨어의 범위가 넓어지면서 소프트웨어 개발자도 하드웨어 지식을 알고 있어야 하드웨어를 효과적으로 제어할 수 있는 소프트웨어를 개발할 수 있게 되었다. 최근에 소프트웨어 개발자들이 쉽게 접할 수 있는 개발 보드들(예제: 라즈베리파이, 아두이노, UDOO 등) 이 출시되었다. 
