@@ -3,7 +3,7 @@
 * http://www.yes24.com/Product/Goods/78869304?scode=032&OzSrank=1
 * https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=207807446
 * http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791190014489
-* https://ridibooks.com/v2/Detail?id=3780000055&_s=search&_q=%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4%EB%A1%9C
+* https://ridibooks.com/v2/Detail?id=3780000055
 
 
 ![라즈베리파이로 시작하는 핸드메이드 IoT-입체](https://user-images.githubusercontent.com/21074282/65301685-7af4c000-dbb3-11e9-9dae-9748cc7cefa4.jpg)
